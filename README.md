@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, laravel, next**
 
-- 👨‍💻 All of my projects are available at [mutiaa.vercel.app](mutiaa.vercel.app)
+- 👨‍💻 All of my projects are available at [mutiaa.vercel.app](mutiaadev.site)
 
 - 📝 I regularly write articles on [mutiadiscoveries.my.id](mutiadiscoveries.my.id)
 
