@@ -1,8 +1,8 @@
-# Hi there, I'm Mutia Pegi Intanswawri 👋
+# Hi there, I'm Mutia Pegi Intanswari 👋
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mutiacode&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mutiaacode&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=dark)
 
 ## 📫 How to Reach Me
 
