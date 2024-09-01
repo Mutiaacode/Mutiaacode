@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mutia Pegi Intanswari</h1>
-<h3 align="center">A passionate frontend-Backend developer from Indonesia</h3>
+<img src="https://i.imgur.com/bX4zIRO.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutiaacode&label=Profile%20views&color=0e75b6&style=flat" alt="mutiaacode" /> </p>
+<a href="https://discord.com/users/335988287913066498"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/335988287913066498?bg=23283d&borderRadius=8px"/></a>
 
-- 🌱 I’m currently learning **react, laravel, next**
+☁  <a href="https://www.spigotmc.org/members/droreo002.416123/">Spigot Profile</a>
+🐱 <a href="https://karyakarsa.com/kamvret/" class="padding-left: 2em;">Github Profile Picture</a>
+⛰  <a href="https://www.patreon.com/Kurzgesagt" class="padding-left: 2em;">Background Picture</a>
+<br>
+## 📋 Profile
 
-- 👨‍💻 All of my projects are available at [mutiadev.site](mutiaadev.site)
-
-- 📝 I regularly write articles on [mutiadiscoveries.my.id](mutiadiscoveries.my.id)
-
-- 📫 How to reach me **mutiacode@gmail.com**
-
+I code in Laravel & Reactjs
