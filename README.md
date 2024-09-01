@@ -7,8 +7,6 @@
 ## 📫 How to Reach Me
 
 - **Email**: [email@example.com](mailto:mutiacode@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mutia]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/mutia-pegi-intanswari-184597298/))
-- **Twitter**: [@-](https://twitter.com/username)
 - **Website**: [mutiadev.site](https://www.mutiadev.site)
 
 ## 🤝 Collaboration
