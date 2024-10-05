@@ -6,7 +6,7 @@
 
 ## 📫 How to Reach Me
 
-- **Email**: [email@example.com](mailto:mutiacode@gmail.com)
+- **Email**: [mutiacode@gmail.com](mailto:mutiacode@gmail.com)
 - **Website**: [mutiadev.site](https://www.mutiadev.site)
 
 ## 🤝 Collaboration
