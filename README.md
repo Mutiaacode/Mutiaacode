@@ -1,5 +1,5 @@
 # Hi there! I'm Mutia Pegi Intanswari 🌟
-![Hati Bersinar](https://seeklogo.com/images/P/psht-logo-77E7603CAD-seeklogo.com.png)
+(https://seeklogo.com/images/P/psht-logo-77E7603CAD-seeklogo.com.png)
 
 ### 👨‍💻 About Me
 - 🏫 Student at **SMK NEGERI 3 METRO**
