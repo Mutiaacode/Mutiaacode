@@ -10,12 +10,6 @@
 - 🔊 Building an **AI Chatbot for TikTok Live**
 - 🌟 Love designing modern UI with **Framer Motion & Tailwind CSS**
 
-### 📚 My Projects
-- 🌐 **Al-Qur'an Online Web App** (Hosted on Vercel, API by eQuran ID)
-- 🎧 **Music Player UI inspired by Spotify**
-- 📸 **Gallery App with Firebase Storage**
-- 🌟 **Social Media App (Laravel + React.js)**
-
 ### 💡 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -29,10 +23,9 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 👥 Let's Connect!
-- 👤 [GitHub](https://github.com/your-username)
-- 💌 [Email](mailto:your-email@gmail.com)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 🌍 [Portfolio](https://your-portfolio.com)
+- 👤 [Instagram](https://instagram.com/mtiaavv)
+- 💌 [Email](mutiacode@gmail.com)
+- 🌍 [Portfolio](https://mutiadev.my.id/)
 
 > “Great things are not done by impulse, but by a series of small things brought together.” - Vincent Van Gogh
 
