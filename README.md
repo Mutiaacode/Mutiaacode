@@ -26,7 +26,6 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 👥 Let's Connect!
-- 👤 [Instagram](https://instagram.com/mtiaavv)
 - 💌 [Email](mutiacode@gmail.com)
 - 🌍 [Portfolio](https://mutiadev.my.id/)
 
