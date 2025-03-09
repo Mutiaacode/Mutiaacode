@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🏫 Student at **SMK NEGERI 3 METRO**
-- 📚 Majoring in **Software Engineering (RPLB)**
+- 📚 Majoring in **Software Engineering**
 - 💎 Passionate about **Web Development, UI/UX, and AI**
 - 🔧 Tech Stack: **Laravel, React.js, Vue.js, Tailwind CSS, Bootstrap**
 - ✨ Currently working on: **Portfolio, AI-based projects, and Web Competitions**
