@@ -12,7 +12,7 @@
 - 🔊 Building an **AI Chatbot for TikTok Live**
 - 🌟 Love designing modern UI with **Framer Motion & Tailwind CSS**
 ### Martial Arts
-![Hati Bersinar](https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/main/psht-logo-77E7603CAD-seeklogo.com.png)
+![PersaudaraaN Setia Hati Terate](https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/main/psht-logo-77E7603CAD-seeklogo.com.png)
 ### 💡 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
