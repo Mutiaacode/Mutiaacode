@@ -6,9 +6,9 @@
 - 💎 Passionate about **Web Development, UI/UX, and AI**
 - 🔧 Tech Stack: **Laravel, React.js, Vue.js, Tailwind CSS, Bootstrap**
 - ✨ Currently working on: **Portfolio, AI-based projects, and Web Competitions**
-- 🏆 Participating in **LKS Nasional - Web Technology** 2024
-- 🏆 Participating in **LKS Provinsi - Web Technology** 2024
-- 🏆 Participating in **LKS Kota - Web Technology** 2024
+- 🏆 Participating in **LKS Nasional - Web Technology 2024**
+- 🏆 Participating in **LKS Provinsi - Web Technology 2024**
+- 🏆 Participating in **LKS Kota - Web Technology 2024**
 - 🔊 Building an **AI Chatbot for TikTok Live**
 - 🌟 Love designing modern UI with **Framer Motion & Tailwind CSS**
 ### Martial Arts
