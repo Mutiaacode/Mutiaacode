@@ -69,7 +69,7 @@ Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&lo
 
 ## 👥 Let's Connect!
 
--   📩 **Email:** mutiacode@gmail.com\
+-   📩 **Email:** mutiacode@gmail.com
 -   🌐 **Portfolio:** https://mutiadev.my.id/
 
 ------------------------------------------------------------------------
