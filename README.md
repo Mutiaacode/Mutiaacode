@@ -34,16 +34,11 @@ Logo](https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/main/psht-logo-77E
 
 # 📊 GitHub Statistics
 
-::: {align="center"}
+
 ### 🔥 GitHub Streak
 
 [![GitHub
 Streak](https://streak-stats.demolab.com?user=Mutiaacode&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-### 📈 GitHub Stats
-
-![Mutiaacode GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Mutiaacode&show_icons=true&theme=radical&hide_border=true)
 
 ### 🧠 Top Languages
 
