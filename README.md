@@ -6,24 +6,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
-## 👨‍💻 About Me
-
--   🎓 Student at **SMK NEGERI 3 METRO**
--   💻 Majoring in **Software Engineering (RPL)**
--   💡 Passionate about **Web Development, UI/UX, and Artificial
-    Intelligence**
--   🔧 Tech Focus: **Laravel**, **React.js**, **Vue.js**, **Tailwind
-    CSS**, **Bootstrap**
--   ✨ Currently working on: Portfolio, AI Projects, Web Competitions
--   🏆 Achievements:
-    -   **LKS Nasional -- Web Technology 2024**
-    -   **LKS Provinsi -- Web Technology 2024**
-    -   **LKS Kota -- Web Technology 2024**
--   🎤 Building an **AI Chatbot for TikTok Live**
--   🎨 Love designing modern UI with **Framer Motion** & **Tailwind
-    CSS**
-
-------------------------------------------------------------------------
 
 ## 🥋 Martial Arts
 
