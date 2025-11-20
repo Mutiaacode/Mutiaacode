@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hi there! I'm <strong>Mutia Pegi Intanswari</strong> 🌟</h1>
-
-<p align="center"><i>Aspiring Web Developer & Tech Enthusiast</i></p>
 
 ------------------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/refs/heads/main/bannerr2.png" width="100%">
