@@ -31,15 +31,6 @@
 Logo](https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/main/psht-logo-77E7603CAD-seeklogo.com.png)
 
 ------------------------------------------------------------------------
-
-# 📊 GitHub Statistics
-
-
-### 🔥 GitHub Streak
-
-[![GitHub
-Streak](https://streak-stats.demolab.com?user=Mutiaacode&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 ### 🧠 Top Languages
 
 ![Top
