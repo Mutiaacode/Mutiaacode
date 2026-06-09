@@ -26,32 +26,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mutiaacode&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=666&icon_color=10b981&title_color=10b981" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutiaacode&hide_border=true&background=00000000&stroke=666&ring=10b981&fire=10b981&currStreakNum=666&sideNums=666" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutiaacode&layout=compact&hide_border=true&bg_color=00000000&text_color=666&title_color=10b981&langs_count=6">
-</p>
-
----
-
-## 🎯 Currently
-
-- 🔧 Self-hosting & automating my homeserver
-- 📊 Learning machine learning & data analysis
-- 🏠 Building smart home setup
-- ☸️ Exploring more container orchestration
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mutiaacode&label=👀&color=10b981&icon=5&pretty=true">
-</p>
-
 <p align="center">
   <sub>⚡ Keep learning. Keep building </sub>
   <br>
