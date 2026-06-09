@@ -1,7 +1,4 @@
 
-
-<br>
-
 <!-- Animated greeting -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=10B981&center=true&vCenter=true&width=500&lines=Halo!+%F0%9F%91%8B;Mutia+Pegi+Intanswari+%F0%9F%96%A5%EF%B8%8F;Homeserver+%E2%80%A2+Docker+%E2%80%A2+Self-hosted;PSHT+%F0%9F%A4%9C" alt="Typing SVG">
