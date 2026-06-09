@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <sub>⚡ Keep learning. Keep building. PSHT 🤜</sub>
+  <sub>⚡ Keep learning. Keep building </sub>
   <br>
   <img src="https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/refs/heads/main/psht-logo-77E7603CAD-seeklogo.com.png" width="20">
 </p>
