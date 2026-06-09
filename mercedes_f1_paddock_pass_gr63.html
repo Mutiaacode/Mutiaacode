@@ -1,0 +1,194 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Barlow+Condensed:wght@400;600;700;900&display=swap');
+@keyframes scanline { 0%{top:-10%} 100%{top:110%} }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+@keyframes race-stripe { 0%{transform:translateX(-100%)} 100%{transform:translateX(400%)} }
+
+.card-wrap {
+  display:flex; justify-content:center; align-items:center;
+  padding: 32px 16px; background:#0a0a0a; border-radius:16px; overflow:hidden; position:relative;
+}
+.card-wrap::before {
+  content:''; position:absolute; inset:0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(0,210,190,0.015) 3px, rgba(0,210,190,0.015) 4px);
+  pointer-events:none;
+}
+
+.pass {
+  width:360px; background:#111; border-radius:12px; overflow:hidden; position:relative;
+  border:1px solid #00D2BE; font-family:'Barlow Condensed',sans-serif;
+}
+
+.pass-header {
+  background:#00D2BE; padding:10px 16px 8px; display:flex; justify-content:space-between; align-items:center;
+}
+.team-name {
+  font-family:'Barlow Condensed',sans-serif; font-size:11px; font-weight:700;
+  color:#0a0a0a; letter-spacing:2.5px; text-transform:uppercase;
+}
+.season-badge {
+  background:#0a0a0a; color:#00D2BE; font-size:10px; font-weight:700;
+  padding:2px 8px; border-radius:2px; letter-spacing:1px; font-family:'Share Tech Mono',monospace;
+}
+
+.pass-mid-stripe {
+  height:4px; background:#0a0a0a; position:relative; overflow:hidden;
+}
+.pass-mid-stripe::after {
+  content:''; position:absolute; top:0; left:0; height:100%; width:30%;
+  background:#00D2BE; animation: race-stripe 2.5s linear infinite;
+}
+
+.pass-body {
+  padding:16px; display:flex; gap:14px; align-items:flex-start;
+}
+.photo-box {
+  width:76px; min-width:76px; height:90px; background:#1a1a1a;
+  border:1.5px solid #00D2BE; border-radius:4px; display:flex; flex-direction:column;
+  align-items:center; justify-content:center; position:relative; overflow:hidden;
+}
+.photo-initials {
+  font-size:22px; font-weight:900; color:#00D2BE; letter-spacing:0px;
+  font-family:'Barlow Condensed',sans-serif; line-height:1;
+}
+.photo-number {
+  font-size:28px; font-weight:900; color:#00D2BE;
+  font-family:'Barlow Condensed',sans-serif; line-height:1; letter-spacing:-1px;
+}
+.photo-label {
+  font-size:9px; color:#444; letter-spacing:2px; margin-top:4px;
+  font-family:'Share Tech Mono',monospace;
+}
+.photo-corner {
+  position:absolute; width:10px; height:10px; border-color:#00D2BE; border-style:solid;
+}
+.photo-corner.tl { top:3px; left:3px; border-width:1.5px 0 0 1.5px; }
+.photo-corner.tr { top:3px; right:3px; border-width:1.5px 1.5px 0 0; }
+.photo-corner.bl { bottom:3px; left:3px; border-width:0 0 1.5px 1.5px; }
+.photo-corner.br { bottom:3px; right:3px; border-width:0 1.5px 1.5px 0; }
+
+.pass-info { flex:1; }
+.pass-type {
+  font-size:9px; letter-spacing:3px; color:#00D2BE; margin-bottom:4px;
+  font-family:'Share Tech Mono',monospace; text-transform:uppercase;
+}
+.pass-name {
+  font-size:26px; font-weight:900; color:#fff; letter-spacing:1px;
+  text-transform:uppercase; line-height:1; margin-bottom:8px;
+}
+.pass-fields { display:flex; flex-direction:column; gap:5px; }
+.field-row { display:flex; flex-direction:column; }
+.field-label {
+  font-size:9px; color:#555; letter-spacing:2px; text-transform:uppercase;
+  font-family:'Share Tech Mono',monospace;
+}
+.field-value {
+  font-size:12px; color:#ccc; font-weight:600; letter-spacing:0.5px;
+}
+.field-value.teal { color:#00D2BE; }
+
+.access-bar {
+  padding: 10px 16px; border-top:1px solid #1f1f1f;
+  display:flex; gap:6px; flex-wrap:wrap;
+}
+.access-pill {
+  font-size:9px; font-weight:700; letter-spacing:1.5px; text-transform:uppercase;
+  padding:3px 8px; border-radius:2px; font-family:'Share Tech Mono',monospace;
+  background:#1a1a1a; border:1px solid #00D2BE; color:#00D2BE;
+}
+.access-pill.active { background:#00D2BE; color:#0a0a0a; }
+
+.pass-footer {
+  background:#0d0d0d; padding:8px 16px; display:flex; justify-content:space-between; align-items:center;
+  border-top:1px solid #1a1a1a;
+}
+.barcode { display:flex; gap:1px; align-items:flex-end; }
+.barcode span { background:#00D2BE; display:block; width:2px; opacity:0.7; }
+.valid-indicator {
+  display:flex; align-items:center; gap:5px;
+  font-size:9px; color:#00D2BE; letter-spacing:2px;
+  font-family:'Share Tech Mono',monospace;
+}
+.dot { width:6px; height:6px; background:#00D2BE; border-radius:50%; animation: blink 1.4s ease-in-out infinite; }
+
+.scanline {
+  position:absolute; left:0; right:0; height:2px;
+  background:rgba(0,210,190,0.12); animation: scanline 4s linear infinite; pointer-events:none;
+}
+
+.car-number {
+  font-family:'Barlow Condensed',sans-serif; font-size:48px; font-weight:900;
+  color:rgba(0,210,190,0.06); position:absolute; right:8px; bottom:44px; line-height:1;
+  pointer-events:none; user-select:none; letter-spacing:-2px;
+}
+</style>
+
+<div class="card-wrap">
+  <div class="pass">
+    <div class="scanline"></div>
+    <div class="car-number">GR63</div>
+
+    <div class="pass-header">
+      <div class="team-name">Mercedes AMG Petronas F1 Team</div>
+      <div class="season-badge">2025</div>
+    </div>
+
+    <div class="pass-mid-stripe"></div>
+
+    <div class="pass-body">
+      <div class="photo-box">
+        <div class="photo-corner tl"></div>
+        <div class="photo-corner tr"></div>
+        <div class="photo-corner bl"></div>
+        <div class="photo-corner br"></div>
+        <div class="photo-initials">GR</div>
+        <div class="photo-number">63</div>
+        <div class="photo-label">CREW</div>
+      </div>
+
+      <div class="pass-info">
+        <div class="pass-type">Paddock Pass — All Areas</div>
+        <div class="pass-name">Mutiadev</div>
+        <div class="pass-fields">
+          <div class="field-row">
+            <span class="field-label">Role</span>
+            <span class="field-value teal">Full-Stack Developer</span>
+          </div>
+          <div class="field-row">
+            <span class="field-label">Chassis</span>
+            <span class="field-value">W15 — Silver Arrow</span>
+          </div>
+          <div class="field-row">
+            <span class="field-label">Base</span>
+            <span class="field-value">Lampung, Indonesia</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="access-bar">
+      <div class="access-pill active">Garage</div>
+      <div class="access-pill active">Pit Lane</div>
+      <div class="access-pill active">Paddock</div>
+      <div class="access-pill">Media</div>
+      <div class="access-pill">Hospitality</div>
+    </div>
+
+    <div class="pass-footer">
+      <div class="valid-indicator">
+        <div class="dot"></div>
+        VERIFIED
+      </div>
+      <div class="barcode">
+        <span style="height:18px"></span><span style="height:24px"></span><span style="height:14px"></span>
+        <span style="height:22px"></span><span style="height:18px"></span><span style="height:26px"></span>
+        <span style="height:12px"></span><span style="height:20px"></span><span style="height:24px"></span>
+        <span style="height:16px"></span><span style="height:22px"></span><span style="height:18px"></span>
+        <span style="height:26px"></span><span style="height:14px"></span><span style="height:20px"></span>
+        <span style="height:16px"></span><span style="height:24px"></span><span style="height:18px"></span>
+      </div>
+      <div style="font-size:9px;color:#333;font-family:'Share Tech Mono',monospace;">MUT-2025-GR63</div>
+    </div>
+  </div>
+</div>
