@@ -1,54 +1,61 @@
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/refs/heads/main/bannerr2.png" width="100%">
 </div>
 
----
+<br>
 
-# Halo! 👋 <img src="https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/refs/heads/main/psht-logo-77E7603CAD-seeklogo.com.png" width="25" align="right">
-
-**Mutia Pegi Intanswari** — *Homeserver & infra enthusiast*
-
-I keep things running. Some Docker, some Linux, a bit of smart home chaos.
-
----
-
-## ⚙️ Stack
-
-```
-Server    →  Lenovo · Ubuntu · 7.3GB RAM · 256GB NVMe + 298GB HDD
-Infra     →  Docker · Cloudflared · Tailscale · Portainer · AdGuard
-Monitor   →  Netdata · Fail2Ban · Custom dashboard
-Gateway   →  9Router (self-hosted AI proxy)
-SmartHome →  Samsung · Polytron · (IR blaster someday)
-```
-
-## 📦 Running
-
-| Service | What |
-|---------|------|
-| Nextcloud | Self-hosted cloud |
-| Homepage | Dashboard portal |
-| Netdata | Real-time monitoring |
-| Portainer | Container management |
-| AdGuard Home | DNS-level ad blocking |
-| Fail2Ban | SSH security |
-| Security Dashboard | Custom-built, live at `server.mutiadev.site` |
-
-## 🌱 On the radar
-
-- Learning machine learning & Jupyter
-- Smart home automation
-- Self-hosting more services
-
----
-
+<!-- Animated greeting -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mutiaacode&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=666&icon_color=999" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=10B981&center=true&vCenter=true&width=500&lines=Halo!+%F0%9F%91%8B;Mutia+Pegi+Intanswari+%F0%9F%96%A5%EF%B8%8F;Homeserver+%E2%80%A2+Docker+%E2%80%A2+Self-hosted;PSHT+%F0%9F%A4%9C" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <i>Homeserver · Docker · Linux · Always learning</i>
+  <i>Keep things running. Build things that matter.</i>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mutiaacode&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=666&icon_color=10b981&title_color=10b981" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutiaacode&hide_border=true&background=00000000&stroke=666&ring=10b981&fire=10b981&currStreakNum=666&sideNums=666" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutiaacode&layout=compact&hide_border=true&bg_color=00000000&text_color=666&title_color=10b981&langs_count=6">
+</p>
+
+---
+
+## 🎯 Currently
+
+- 🔧 Self-hosting & automating my homeserver
+- 📊 Learning machine learning & data analysis
+- 🏠 Building smart home setup
+- ☸️ Exploring more container orchestration
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Mutiaacode&label=👀&color=10b981&icon=5&pretty=true">
+</p>
+
+<p align="center">
+  <sub>⚡ Keep learning. Keep building. PSHT 🤜</sub>
   <br>
-  <sup>PSHT 🤜</sup>
+  <img src="https://raw.githubusercontent.com/Mutiaacode/Mutiaacode/refs/heads/main/psht-logo-77E7603CAD-seeklogo.com.png" width="20">
 </p>
