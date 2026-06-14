@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="490" viewBox="0 0 380 490">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Share+Tech+Mono');
+      text { font-family: 'Barlow Condensed', sans-serif; }
+      .mono { font-family: 'Share Tech Mono', monospace; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect width="380" height="490" rx="12" fill="#111" stroke="#00D2BE" stroke-width="1"/>
+  <!-- Scanline pattern -->
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="rgba(0,210,190,0.015)"/>
+  </pattern>
+  <rect width="380" height="490" rx="12" fill="url(#scan)"/>
+  <!-- Outer wrap bg -->
+  <rect x="-10" y="-10" width="400" height="510" rx="16" fill="#0a0a0a"/>
+  <rect width="380" height="490" rx="12" fill="#111" x="0" y="0"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="380" height="38" fill="#00D2BE"/>
+  <text x="16" y="24" fill="#0a0a0a" font-size="11" font-weight="700" letter-spacing="2.5" font-family="'Barlow Condensed',sans-serif">MERCEDES AMG PETRONAS F1 TEAM</text>
+  <rect x="304" y="6" width="64" height="24" rx="2" fill="#0a0a0a"/>
+  <text x="336" y="22" fill="#00D2BE" font-size="10" font-weight="700" text-anchor="middle" font-family="'Share Tech Mono',monospace">2025</text>
+  <!-- Race stripe -->
+  <rect x="0" y="38" width="380" height="4" fill="#0a0a0a"/>
+  <!-- Body -->
+  <rect x="0" y="42" width="380" height="290" fill="#111"/>
+  <!-- Photo box -->
+  <rect x="16" y="58" width="76" height="90" rx="4" fill="#1a1a1a" stroke="#00D2BE" stroke-width="1.5"/>
+  <rect x="19" y="61" width="10" height="10" fill="none" stroke="#00D2BE" stroke-width="1.5"/>
+  <rect x="73" y="61" width="10" height="10" fill="none" stroke="#00D2BE" stroke-width="1.5"/>
+  <rect x="19" y="135" width="10" height="10" fill="none" stroke="#00D2BE" stroke-width="1.5"/>
+  <rect x="73" y="135" width="10" height="10" fill="none" stroke="#00D2BE" stroke-width="1.5"/>
+  <text x="54" y="105" fill="#00D2BE" font-size="22" font-weight="900" text-anchor="middle" font-family="'Barlow Condensed',sans-serif">GR</text>
+  <text x="54" y="133" fill="#00D2BE" font-size="28" font-weight="900" text-anchor="middle" font-family="'Barlow Condensed',sans-serif">63</text>
+  <text x="54" y="142" fill="#444" font-size="9" text-anchor="middle" letter-spacing="2" font-family="'Share Tech Mono',monospace">CREW</text>
+  <!-- Info -->
+  <text x="106" y="72" fill="#00D2BE" font-size="9" letter-spacing="3" font-family="'Share Tech Mono',monospace">PADDOCK PASS — ALL AREAS</text>
+  <text x="106" y="102" fill="#fff" font-size="26" font-weight="900" letter-spacing="1" font-family="'Barlow Condensed',sans-serif">MUTIADEV</text>
+  <text x="106" y="120" fill="#555" font-size="9" letter-spacing="2" font-family="'Share Tech Mono',monospace">ROLE</text>
+  <text x="106" y="136" fill="#00D2BE" font-size="12" font-weight="600" font-family="'Barlow Condensed',sans-serif">FULL-STACK DEVELOPER</text>
+  <text x="106" y="154" fill="#555" font-size="9" letter-spacing="2" font-family="'Share Tech Mono',monospace">CHASSIS</text>
+  <text x="106" y="170" fill="#ccc" font-size="12" font-weight="600" font-family="'Barlow Condensed',sans-serif">W15 — SILVER ARROW</text>
+  <text x="106" y="188" fill="#555" font-size="9" letter-spacing="2" font-family="'Share Tech Mono',monospace">BASE</text>
+  <text x="106" y="204" fill="#ccc" font-size="12" font-weight="600" font-family="'Barlow Condensed',sans-serif">LAMPUNG, INDONESIA</text>
+  <!-- Access bar -->
+  <rect x="0" y="332" width="380" height="32" fill="none" stroke="#1f1f1f" stroke-width="1"/>
+  <rect x="16" y="340" height="20" rx="2" width="52" fill="#1a1a1a" stroke="#00D2BE" stroke-width="1"/>
+  <text x="42" y="354" fill="#00D2BE" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1.5" font-family="'Share Tech Mono',monospace">GARAGE</text>
+  <rect x="76" y="340" height="20" rx="2" width="60" fill="#1a1a1a" stroke="#00D2BE" stroke-width="1"/>
+  <text x="106" y="354" fill="#00D2BE" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1.5" font-family="'Share Tech Mono',monospace">PIT LANE</text>
+  <rect x="144" y="340" height="20" rx="2" width="64" fill="#00D2BE"/>
+  <text x="176" y="354" fill="#0a0a0a" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1.5" font-family="'Share Tech Mono',monospace">PADDOCK</text>
+  <rect x="216" y="340" height="20" rx="2" width="50" fill="#1a1a1a" stroke="#00D2BE" stroke-width="1"/>
+  <text x="241" y="354" fill="#00D2BE" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1.5" font-family="'Share Tech Mono',monospace">MEDIA</text>
+  <rect x="274" y="340" height="20" rx="2" width="90" fill="#1a1a1a" stroke="#00D2BE" stroke-width="1"/>
+  <text x="319" y="354" fill="#00D2BE" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1.5" font-family="'Share Tech Mono',monospace">HOSPITALITY</text>
+  <!-- Footer -->
+  <rect x="0" y="364" width="380" height="36" fill="#0d0d0d" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Dot indicator -->
+  <circle cx="22" cy="382" r="3" fill="#00D2BE"/>
+  <text x="30" y="386" fill="#00D2BE" font-size="9" letter-spacing="2" font-family="'Share Tech Mono',monospace">VERIFIED</text>
+  <!-- Barcode -->
+  <rect x="142" y="372" width="2" height="18" fill="#00D2BE" opacity="0.7"/>
+  <rect x="146" y="366" width="2" height="24" fill="#00D2BE" opacity="0.7"/>
+  <rect x="150" y="376" width="2" height="14" fill="#00D2BE" opacity="0.7"/>
+  <rect x="154" y="368" width="2" height="22" fill="#00D2BE" opacity="0.7"/>
+  <rect x="158" y="372" width="2" height="18" fill="#00D2BE" opacity="0.7"/>
+  <rect x="162" y="364" width="2" height="26" fill="#00D2BE" opacity="0.7"/>
+  <rect x="166" y="378" width="2" height="12" fill="#00D2BE" opacity="0.7"/>
+  <rect x="170" y="370" width="2" height="20" fill="#00D2BE" opacity="0.7"/>
+  <rect x="174" y="366" width="2" height="24" fill="#00D2BE" opacity="0.7"/>
+  <rect x="178" y="374" width="2" height="16" fill="#00D2BE" opacity="0.7"/>
+  <rect x="182" y="368" width="2" height="22" fill="#00D2BE" opacity="0.7"/>
+  <rect x="186" y="372" width="2" height="18" fill="#00D2BE" opacity="0.7"/>
+  <rect x="190" y="364" width="2" height="26" fill="#00D2BE" opacity="0.7"/>
+  <rect x="194" y="376" width="2" height="14" fill="#00D2BE" opacity="0.7"/>
+  <rect x="198" y="370" width="2" height="20" fill="#00D2BE" opacity="0.7"/>
+  <rect x="202" y="374" width="2" height="16" fill="#00D2BE" opacity="0.7"/>
+  <rect x="206" y="366" width="2" height="24" fill="#00D2BE" opacity="0.7"/>
+  <rect x="210" y="372" width="2" height="18" fill="#00D2BE" opacity="0.7"/>
+  <!-- Code -->
+  <text x="260" y="386" fill="#333" font-size="9" letter-spacing="1" font-family="'Share Tech Mono',monospace">MUT-2025-GR63</text>
+  <!-- Watermark GR63 -->
+  <text x="360" y="445" fill="rgba(0,210,190,0.06)" font-size="48" font-weight="900" text-anchor="end" font-family="'Barlow Condensed',sans-serif">GR63</text>
+</svg>
