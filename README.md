@@ -51,10 +51,6 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-
-
 [@mutiadev.id]: https://mutiadev.site "MutiaDev Home"
 [issues page]: https://github.com/Mutiaacode/Mutiaacode/issues "Mutiaacode/issues"
 [linkedin]: https://www.linkedin.com/in/mutia-pegi-intanswari-184597298/ "Mutia Pegi Intanswari LinkedIn"
