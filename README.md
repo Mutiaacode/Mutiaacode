@@ -7,7 +7,7 @@
   <a href="https://github.com/Mutiaacode?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Mutiaacode?style=flat&logo=github"></a>
 </p>
 
-<a href="#mutiapegi-title"><img src="https://raw.githubusercontent.com/Mutiaacode/github-stats-transparent/output/generated/overview.svg" alt="mutiapegi" align="right" /></a>
+
 
 - :office: &nbsp;I'm currently working as Founder & Fullstack Developer at **[@mutiadev.id]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
@@ -53,33 +53,7 @@
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged open-source coding time. Updated every 1 hour.
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```text
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
 
 [@mutiadev.id]: https://mutiadev.site "MutiaDev Home"
 [issues page]: https://github.com/Mutiaacode/Mutiaacode/issues "Mutiaacode/issues"
