@@ -1,4 +1,4 @@
-<h1 align="left" id="mutiapegi-title">:wave: Hello there! I'm Mutia Pegi</h1>
+<h1 align="left" id="mutiapegi-title">:wave: Hello there! I'm ムティア</h1>
 <h3 align="left">I'm a Junior Fullstack Developer & Home Lab Enthusiast</h3>
 
 <p align="left">
