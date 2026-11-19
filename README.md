@@ -34,31 +34,7 @@
 - Studi di **Institut Teknologi Sumatera**, berdomisili di **Metro, Indonesia**
 - Suka bahas web dev, Linux, dan self-hosting — tanya apa saja di **[Issues]**
 
-<picture>
-  <source media="(max-width: 768px)" srcset="assets/m/sections/music.svg" />
-  <img src="assets/sections/music.svg" width="100%" alt="Music" />
-</picture>
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="assets/m/music.svg" />
-    <img src="assets/music.svg" width="620" alt="Now playing: lo-fi instrumental" />
-  </picture>
-</p>
-
-<picture>
-  <source media="(max-width: 768px)" srcset="assets/m/sections/stats.svg" />
-  <img src="assets/sections/stats.svg" width="100%" alt="Stats" />
-</picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mutiaacode&show_icons=true&count_private=true&include_all_commits=true&bg_color=1F0F12&border_color=3A1F26&title_color=FF5C72&icon_color=FFC857&text_color=F7E9EA" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutiaacode&layout=compact&langs_count=8&bg_color=1F0F12&border_color=3A1F26&title_color=FF5C72&text_color=F7E9EA" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <sub><i>Build it, host it, document it — then make it a little faster.</i></sub>
-</p>
 
 [mutiadev.site]: https://mutiadev.site "MutiaDev"
 [Home Lab]: https://homelab.mutiadev.site "My Home Lab"
