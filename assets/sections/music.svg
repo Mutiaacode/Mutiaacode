@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="68" viewBox="0 0 1200 68" role="img" aria-label="CONNECT">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="68" viewBox="0 0 1200 68" role="img" aria-label="MUSIC">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1a1b27"/><stop offset="1" stop-color="#12131b"/>
@@ -16,6 +16,6 @@
     </pattern>
   </defs>
   <rect x="0" y="24" width="4" height="24" rx="2" fill="url(#accent)"/>
-  <text x="22" y="46" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="19" font-weight="700" letter-spacing="3" fill="#c0caf5">CONNECT</text>
-  <text x="1180" y="46" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13" fill="#565f89"># 05</text>
+  <text x="22" y="46" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="19" font-weight="700" letter-spacing="3" fill="#c0caf5">MUSIC</text>
+  <text x="1180" y="46" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13" fill="#565f89"># 04</text>
 </svg>

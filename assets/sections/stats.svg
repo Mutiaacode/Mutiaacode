@@ -17,5 +17,5 @@
   </defs>
   <rect x="0" y="24" width="4" height="24" rx="2" fill="url(#accent)"/>
   <text x="22" y="46" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="19" font-weight="700" letter-spacing="3" fill="#c0caf5">STATS</text>
-  <text x="1180" y="46" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13" fill="#565f89"># 04</text>
+  <text x="1180" y="46" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13" fill="#565f89"># 05</text>
 </svg>
