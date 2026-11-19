@@ -19,11 +19,22 @@
       <circle cx="1.5" cy="1.5" r="1.1" fill="#3a1f26"/>
     </pattern>
   </defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0.9">
+      <stop offset="0" stop-color="#780000" stop-opacity="0.5"/>
+      <stop offset="0.45" stop-color="#c1121f" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ff5c72" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="herobar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#780000" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#c1121f" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ff5c72" stop-opacity="0"/>
+    </linearGradient>
   <rect width="600" height="350" rx="16" fill="url(#bg)"/>
+  <rect width="600" height="350" rx="16" fill="url(#hero)"/>
   <rect width="600" height="350" rx="16" fill="url(#dots)" opacity="0.5"/>
   <circle cx="500" cy="0" r="210" fill="url(#glow)"/>
   <rect x="0.75" y="0.75" width="598.5" height="348.5" rx="16" fill="none" stroke="#3a1f26"/>
-  <rect x="0" y="0" width="600" height="3" rx="1.5" fill="url(#accent)" opacity="0.9"/>
+  <rect x="0" y="0" width="600" height="3" rx="1.5" fill="url(#herobar)"/>
 
   <text x="300" y="112" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="40" font-weight="700" letter-spacing="-1"><tspan fill="#a3727c" font-size="28">~/</tspan><tspan fill="url(#accent)">mutiadev</tspan></text>
   <rect x="235" y="128" width="130" height="4" rx="2" fill="url(#accent)"/>

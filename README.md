@@ -29,18 +29,6 @@
 - Suka bahas web dev, Linux, dan self-hosting — tanya apa saja di **[Issues]**
 
 <picture>
-  <source media="(max-width: 768px)" srcset="assets/m/sections/tech-stack.svg" />
-  <img src="assets/sections/tech-stack.svg" width="100%" alt="Tech Stack" />
-</picture>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="assets/m/stack.svg" />
-    <img src="assets/stack.svg" width="100%" alt="TypeScript, React, Next.js, Tailwind, Vue, Node.js, Laravel, PHP, Python, MySQL, Linux, bash, Docker, Nginx, Cloudflare, Git" />
-  </picture>
-</p>
-
-<picture>
   <source media="(max-width: 768px)" srcset="assets/m/sections/music.svg" />
   <img src="assets/sections/music.svg" width="100%" alt="Music" />
 </picture>

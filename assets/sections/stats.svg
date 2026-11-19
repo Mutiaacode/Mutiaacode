@@ -22,5 +22,5 @@
   <rect x="0" y="23" width="4" height="26" rx="2" fill="url(#accent)"/>
   <text x="22" y="46" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="18" font-weight="700" letter-spacing="3.5" fill="#f7e9ea">STATS</text>
   <rect x="320" y="33" width="800" height="1.5" fill="url(#fade)"/>
-  <text x="1180" y="46" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#ff5c72"># 04</text>
+  <text x="1180" y="46" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#ff5c72"># 03</text>
 </svg>
