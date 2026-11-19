@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mutiadev - Mutia Pegi Intanswari">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1b27"/><stop offset="1" stop-color="#12131b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/><stop offset="0.6" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7dcfff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#2a2e42"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)" opacity="0.45"/>
+  <circle cx="1030" cy="30" r="250" fill="url(#glow)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="18" fill="none" stroke="#2a2e42"/>
+
+  <text x="72" y="132" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#c0caf5"><tspan fill="#7aa2f7">~/</tspan>mutiadev</text>
+  <rect x="74" y="152" width="136" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="200" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="21" font-weight="600" fill="#7aa2f7">Mutia Pegi Intanswari</text>
+  <text x="72" y="234" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="16" fill="#565f89">Fullstack Developer &#183; Home Lab Enthusiast</text>
+
+  <rect x="690" y="66" width="438" height="176" rx="14" fill="#0f1117" stroke="#2a2e42"/>
+  <circle cx="714" cy="92" r="5.5" fill="#f7768e"/>
+  <circle cx="734" cy="92" r="5.5" fill="#e0af68"/>
+  <circle cx="754" cy="92" r="5.5" fill="#9ece6a"/>
+  <text x="790" y="97" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#565f89">mutia@metro &#8212; zsh</text>
+  <text x="716" y="136" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#9ece6a">$<tspan fill="#c0caf5"> whoami</tspan></text>
+  <text x="716" y="163" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#565f89">  fullstack dev &#183; self-hoster &#183; Metro, ID</text>
+  <text x="716" y="192" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#9ece6a">$<tspan fill="#c0caf5"> cat ~/now.txt</tspan></text>
+  <text x="716" y="219" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#7dcfff">  building mutiadev.site + home lab</text>
+</svg>
