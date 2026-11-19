@@ -1,7 +1,4 @@
-<picture>
- 
-  <img src="assets/header.svg" width="100%" alt="Mutiadev — Mutia Pegi Intanswari" />
-</picture>
+
 
 <div align="center">
 
