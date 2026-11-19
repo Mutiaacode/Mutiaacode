@@ -30,8 +30,8 @@
 </picture>
 
 - Fullstack Developer · Founder di **[mutiadev.site]**
-- Membangun **[Home Lab]** — Linux, Docker, Nginx, dan layanan self-hosted
-- Studi di **Institut Teknologi Sumatera**, berdomisili di **Metro, Indonesia**
+- Build **[Home Lab]** — Linux, Docker, Nginx, dan layanan self-hosted
+- Studi di **Institut Teknologi Sumatera**
 - Suka bahas web dev, Linux, dan self-hosting — tanya apa saja di **[Issues]**
 
 
