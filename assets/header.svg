@@ -1,37 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mutiadev - Mutia Pegi Intanswari">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1a1b27"/><stop offset="1" stop-color="#12131b"/>
+      <stop offset="0" stop-color="#1f0f12"/><stop offset="1" stop-color="#12080a"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7aa2f7"/><stop offset="0.6" stop-color="#bb9af7"/>
-      <stop offset="1" stop-color="#7dcfff"/>
+      <stop offset="0" stop-color="#ff5c72"/><stop offset="0.55" stop-color="#c1121f"/>
+      <stop offset="1" stop-color="#780000"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a1f26" stop-opacity="1"/>
+      <stop offset="1" stop-color="#3a1f26" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7dcfff" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#c1121f" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#c1121f" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1.1" fill="#2a2e42"/>
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#3a1f26"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#dots)" opacity="0.45"/>
-  <circle cx="1030" cy="30" r="250" fill="url(#glow)"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="18" fill="none" stroke="#2a2e42"/>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#dots)" opacity="0.5"/>
+  <circle cx="1010" cy="0" r="280" fill="url(#glow)"/>
+  <circle cx="90" cy="310" r="200" fill="url(#glow)" opacity="0.7"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="20" fill="none" stroke="#3a1f26"/>
+  <rect x="0" y="0" width="1200" height="3" rx="1.5" fill="url(#accent)" opacity="0.9"/>
 
-  <text x="72" y="132" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#c0caf5"><tspan fill="#7aa2f7">~/</tspan>mutiadev</text>
-  <rect x="74" y="152" width="136" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="72" y="200" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="21" font-weight="600" fill="#7aa2f7">Mutia Pegi Intanswari</text>
-  <text x="72" y="234" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="16" fill="#565f89">Fullstack Developer &#183; Home Lab Enthusiast</text>
+  <text x="72" y="126" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="60" font-weight="700" letter-spacing="-1.5"><tspan fill="#a3727c" font-size="42">~/</tspan><tspan fill="url(#accent)">mutiadev</tspan></text>
+  <rect x="74" y="144" width="148" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="182" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="19" font-weight="600" fill="#f7e9ea">Mutia Pegi Intanswari</text>
+  <rect x="72" y="202" width="150" height="30" rx="15" fill="#160a0c" stroke="#3a1f26"/>
+  <circle cx="89" cy="217" r="4" fill="#ff5c72"/>
+  <text x="104" y="221.5" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13.5" font-weight="600" fill="#f7e9ea">fullstack dev</text>
+  <rect x="232" y="202" width="108" height="30" rx="15" fill="#160a0c" stroke="#3a1f26"/>
+  <circle cx="249" cy="217" r="4" fill="#ffc857"/>
+  <text x="264" y="221.5" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13.5" font-weight="600" fill="#f7e9ea">home lab</text>
+  <rect x="350" y="202" width="116" height="30" rx="15" fill="#160a0c" stroke="#3a1f26"/>
+  <circle cx="367" cy="217" r="4" fill="#7fd6a5"/>
+  <text x="382" y="221.5" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="13.5" font-weight="600" fill="#f7e9ea">Metro, ID</text>
 
-  <rect x="690" y="66" width="438" height="176" rx="14" fill="#0f1117" stroke="#2a2e42"/>
-  <circle cx="714" cy="92" r="5.5" fill="#f7768e"/>
-  <circle cx="734" cy="92" r="5.5" fill="#e0af68"/>
-  <circle cx="754" cy="92" r="5.5" fill="#9ece6a"/>
-  <text x="790" y="97" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#565f89">mutia@metro &#8212; zsh</text>
-  <text x="716" y="136" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#9ece6a">$<tspan fill="#c0caf5"> whoami</tspan></text>
-  <text x="716" y="163" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#565f89">  fullstack dev &#183; self-hoster &#183; Metro, ID</text>
-  <text x="716" y="192" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#9ece6a">$<tspan fill="#c0caf5"> cat ~/now.txt</tspan></text>
-  <text x="716" y="219" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15.5" fill="#7dcfff">  building mutiadev.site + home lab</text>
+  <rect x="700" y="62" width="428" height="176" rx="14" fill="#160a0c" stroke="#3a1f26"/>
+  <circle cx="724" cy="88" r="5.5" fill="#ff5c72"/>
+  <circle cx="744" cy="88" r="5.5" fill="#ffc857"/>
+  <circle cx="764" cy="88" r="5.5" fill="#7fd6a5"/>
+  <text x="800" y="93" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#a3727c">mutia@metro &#8212; zsh</text>
+  <text x="726" y="132" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15" fill="#ff5c72">$<tspan fill="#f7e9ea"> whoami</tspan></text>
+  <text x="726" y="157" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15" fill="#a3727c">  mutia &#183; fullstack dev</text>
+  <text x="726" y="186" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15" fill="#ff5c72">$<tspan fill="#f7e9ea"> ls ~/stack</tspan></text>
+  <text x="726" y="211" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="15" fill="#ffc857">  web &#183; backend &#183; infra</text>
 </svg>

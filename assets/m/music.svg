@@ -1,30 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" role="img" aria-label="Coding soundtrack">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="156" viewBox="0 0 600 156" role="img" aria-label="Now playing">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1a1b27"/><stop offset="1" stop-color="#12131b"/>
+      <stop offset="0" stop-color="#1f0f12"/><stop offset="1" stop-color="#12080a"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7aa2f7"/><stop offset="0.6" stop-color="#bb9af7"/>
-      <stop offset="1" stop-color="#7dcfff"/>
+      <stop offset="0" stop-color="#ff5c72"/><stop offset="0.55" stop-color="#c1121f"/>
+      <stop offset="1" stop-color="#780000"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a1f26" stop-opacity="1"/>
+      <stop offset="1" stop-color="#3a1f26" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7dcfff" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#c1121f" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#c1121f" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1.1" fill="#2a2e42"/>
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#3a1f26"/>
     </pattern>
   </defs>
-  <rect width="600" height="150" rx="14" fill="#0f1117"/>
-  <rect width="600" height="150" rx="14" fill="url(#dots)" opacity="0.3"/>
-  <rect x="0.75" y="0.75" width="598.5" height="148.5" rx="14" fill="none" stroke="#2a2e42"/>
+  <rect width="600" height="156" rx="16" fill="#160a0c"/>
+  <rect width="600" height="156" rx="16" fill="url(#dots)" opacity="0.28"/>
+  <rect x="0.75" y="0.75" width="598.5" height="154.5" rx="16" fill="none" stroke="#3a1f26"/>
 
-  <rect x="20" y="22" width="96" height="96" rx="12" fill="url(#accent)" opacity="0.22"/>
-  <circle cx="68" cy="70" r="28" fill="#0f1117" stroke="#2a2e42"/>
-  <circle cx="68" cy="70" r="7" fill="#bb9af7"/>
-  <text x="68" y="80" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="20" fill="#7aa2f7">&#9835;</text>
+  <rect x="20" y="24" width="92" height="92" rx="14" fill="url(#accent)" opacity="0.92"/>
+  <circle cx="66" cy="70" r="28" fill="#160a0c" stroke="#780000" stroke-width="1.5"/>
+  <circle cx="66" cy="70" r="7" fill="#ffc857"/>
 
-  <text x="136" y="52" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="10.5" letter-spacing="3" fill="#565f89">NOW PLAYING</text>
-  <text x="136" y="84" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="19" font-weight="700" fill="#c0caf5">lo-fi &#183; instrumental</text>
-  <text x="136" y="108" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#565f89">soundtrack for building</text>
+  <text x="132" y="54" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="10.5" letter-spacing="3" fill="#ff5c72">NOW PLAYING</text>
+  <text x="130" y="86" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="19" font-weight="700" fill="#f7e9ea">lo-fi &#183; instrumental</text>
+  <text x="132" y="108" font-family="'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,monospace" font-size="12.5" fill="#a3727c">soundtrack for building</text>
+
+  <rect x="132" y="124" width="200" height="4" rx="2" fill="#3a1f26"/>
+  <rect x="132" y="124" width="80" height="4" rx="2" fill="url(#accent)"/>
 </svg>
